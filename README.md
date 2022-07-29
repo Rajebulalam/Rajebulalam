@@ -15,7 +15,7 @@ Skills: Html / CSS / JavaScript / Bootstrap / Tailwind / SASS / React / Node / E
 -  How to reach me: rajebul.alam17@gmail.com 
   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajebulalam)](https://github.com/anuraghazra/github-readme-stats)
+![Rajebulalam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajebulalam&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ![Rajebulalam's Stats](https://github-readme-stats.vercel.app/api?username=Rajebulalam&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
