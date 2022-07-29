@@ -17,7 +17,7 @@ Skills: Html / CSS / JavaScript / Bootstrap / Tailwind / SASS / React / Node / E
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajebulalam)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajebulalam&show_icons=true)   
+![Rajebulalam's Stats](https://github-readme-stats.vercel.app/api?username=Rajebulalam&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rajebulalam&theme=dark)](https://git.io/streak-stats)
 
