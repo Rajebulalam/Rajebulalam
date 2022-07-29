@@ -27,7 +27,5 @@ Skills: Html / CSS / JavaScript / Bootstrap / Tailwind / SASS / React / Node / E
 
 ![GitHub metrics](https://metrics.lecoq.io/Rajebulalam)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Rajebulalam)  
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/Rajebulalam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/rajebul-alam/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'>](https://www.facebook.com/rajebulalam.khokan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='20'>](https://stackoverflow.com/users/md-rajebul-alam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](https://rajebul-alam-portfolio.netlify.app/)
 
