@@ -4,9 +4,7 @@
 ### Frontend Developer
 ![Profile views](https://gpvc.arturio.dev/Rajebulalam)  
 
-I’m a professional Front End Developer. I’m passionate about programming. I love to code. So, that's why I’m here.
-
-I have been doing web design and development for the last few years. I worked with various technologies likes - HTML5, CSS3, Bootstrap, Tailwind, JavaScript, API, React, Node, Express, and MongoDB. And I have done several projects using these technologies.
+I’m a professional Front End Developer. I’m passionate about programming. I love to code. So, that's why I’m here. I have been doing web design and development for the last few years. I worked with various technologies likes - HTML5, CSS3, Bootstrap, Tailwind, JavaScript, API, React, Node, Express, and MongoDB. And I have done several projects using these technologies.
 
 Skills: Html / CSS / JavaScript / Bootstrap / Tailwind / SASS / React / Node / Express / MongoDB / Firebase / Heroku / Netlify / Figma / Photoshop
 
