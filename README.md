@@ -8,11 +8,11 @@ I’m a professional Front End Developer. I’m passionate about programming. I 
 
 Skills: Html / CSS / JavaScript / Bootstrap / Tailwind / SASS / React / Node / Express / MongoDB / Firebase / Heroku / Netlify / Figma / Photoshop
 
-- 🔭 I’m currently working on Tea House web project 
-- 🌱 I’m currently learning redux 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about Web development 
-- 📫 How to reach me: rajebul.alam17@gmail.com 
+-  I’m currently working on Tea House web project 
+-  I’m currently learning redux 
+-  I’m looking to collaborate on github 
+-  Ask me about Web development 
+-  How to reach me: rajebul.alam17@gmail.com 
   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajebulalam)](https://github.com/anuraghazra/github-readme-stats)
